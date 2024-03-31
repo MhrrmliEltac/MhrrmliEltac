@@ -1,4 +1,4 @@
-[![MasterHead](https://imgs.search.brave.com/biQjLoRO6V_gsxY-3D8Pkw_MWA6mAHPr_DTl4jpIfm8/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXIuZG9nL2xh/cmdlLzIwNTEzMDk4/LmpwZw)
+![MasterHead](https://imgs.search.brave.com/biQjLoRO6V_gsxY-3D8Pkw_MWA6mAHPr_DTl4jpIfm8/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXIuZG9nL2xh/cmdlLzIwNTEzMDk4/LmpwZw)
 <h1 align="center">Hi 👋, I'm Eltaj Maharramli</h1>
 <h3 align="center">A junior frontend/Mobile developer from Azerbaijan</h3>
 
