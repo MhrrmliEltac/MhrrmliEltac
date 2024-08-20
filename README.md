@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eltaj Maharramli</h1>
-<h3 align="center">A Junior Web Developer</h3>
+<h3 align="center">A Junior Front End Developer</h3>
 <div align="center">
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=ecf05e479edz4cf5aopxkoc1bxfiyg8r68457uryg762rhwl&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="500" height="270"/>
 </div>
