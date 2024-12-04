@@ -4,11 +4,11 @@
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=ecf05e479edz4cf5aopxkoc1bxfiyg8r68457uryg762rhwl&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="500" height="270"/>
 </div>
 
-- 🌱 I’m currently learning **Html, Css, React, JS, TypeScript**
+- 🌱 I’m currently learning **TypeScript, Next.js**
 
 - 💬 Ask me about **Javascript, Html, Css, React**
 
-- 📫 How to reach me **meherremlieltac14@gmail.comm**
+- 📫 How to reach me **meherremlieltac14@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
