@@ -4,9 +4,9 @@
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=ecf05e479edz4cf5aopxkoc1bxfiyg8r68457uryg762rhwl&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="500" height="270"/>
 </div>
 
-- 🌱 I’m currently learning **TypeScript, Next.js**
+- 🌱 I’m currently learning **Next.js, React-Native**
 
-- 💬 Ask me about **Javascript, Html, Css, React**
+- 💬 Ask me about **Javascript, Html, Css, React, Typescript**
 
 - 📫 How to reach me **meherremlieltac14@gmail.com**
 
